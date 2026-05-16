@@ -1,0 +1,8 @@
+{
+  "name": "Research Internship OS India",
+  "description": "Connecting Indian researchers with elite internship opportunities at IITs, IISer, and top labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
