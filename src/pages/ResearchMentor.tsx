@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { Send, Bot, User, Sparkles, Paperclip, Loader2, BookOpen, Mail, Terminal } from "lucide-react";
+import { Send, Bot, User, Sparkles, Paperclip, Loader2, BookOpen, Mail, Terminal, GraduationCap } from "lucide-react";
 import { useState, useRef, useEffect } from "react";
 import ReactMarkdown from "react-markdown";
 import { engineService } from "@/src/lib/utils";
