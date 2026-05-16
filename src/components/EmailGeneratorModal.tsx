@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from "motion/react";
-import { X, Sparkles, Send, Copy, Check, Loader2, Mail } from "lucide-react";
+import { X, Sparkles, Send, Copy, Check, Loader2, Mail, TrendingUp } from "lucide-react";
 import { useState } from "react";
 import { engineService } from "@/src/lib/utils";
 
